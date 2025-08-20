@@ -1,0 +1,2 @@
+docker-compose up --build
+the above command is used to run the docker and build the docker
